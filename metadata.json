@@ -1,0 +1,6 @@
+{
+  "name": "CalcAI Pro",
+  "description": "Ultra-modern AI Smart Calculator, Math & Word Problem Solver, Multi-tool Utility, and PIN-protected Secret Vault with dynamic themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
